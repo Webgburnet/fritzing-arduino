@@ -24,14 +24,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
+     inkscape:window-width="1680"
      inkscape:window-height="1028"
      id="namedview68"
      showgrid="false"
      inkscape:zoom="9.647696"
-     inkscape:cx="90.720715"
+     inkscape:cx="76.727737"
      inkscape:cy="32.78475"
-     inkscape:window-x="1912"
+     inkscape:window-x="3832"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg66" />
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -84,14 +84,14 @@
          y="-29.868372"
          font-size="3.2"
          transform="matrix(0,-1.25,1.25,0,86.101169,1081.3743)"
-         style="font-size:3.20000005px;font-family:OCRA;fill:#ffffff">NC</text>
+         style="font-size:3.20000005px;font-family:OCRA;fill:#ffffff">SIG</text>
       <text
          id="tspan11445-6"
          x="33.579144"
          y="-35.621315"
          font-size="3.2"
          transform="matrix(0,-1.25,1.25,0,86.101169,1081.3743)"
-         style="font-size:3.20000005px;font-family:OCRA;fill:#ffffff">D0</text>
+         style="font-size:3.20000005px;font-family:OCRA;fill:#ffffff">NC</text>
       <text
          id="tspan11445-1"
          x="33.579144"
@@ -112,7 +112,7 @@
          y="-29.868372"
          font-size="3.2"
          transform="matrix(0,-1.25,1.25,0,100.2744,1042.3979)"
-         style="font-size:3.20000005px;font-family:OCRA;fill:#ffffff">Grove -Humidity&amp;Temperature</text>
+         style="font-size:3.20000005px;font-family:OCRA;fill:#ffffff">Grove -?</text>
     </g>
     <g
        id="g4901"
